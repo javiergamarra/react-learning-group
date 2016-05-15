@@ -4,8 +4,8 @@ A small learning group to talk about react &amp; react native
 ## Steps
 
 1. Getting started ✔ 
-2. Tutorial ⌛
-3. Thinking in React ✗
+2. Tutorial ✔ 
+3. Thinking in React ⌛
 4. Build with react ✗
 5. Koans ✗
 6. LeanCode videos ✗
